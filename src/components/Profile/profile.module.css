@@ -1,0 +1,15 @@
+.profile {
+    width: 300px;
+    margin: 0 auto;
+    border: 1px solid black;
+   text-align: center;
+   }
+.profile:hover {
+    box-shadow: 5px 10px 10px red;
+}
+
+.avatar{
+   box-shadow: inset 1px 5px 20px grey;
+}
+
+

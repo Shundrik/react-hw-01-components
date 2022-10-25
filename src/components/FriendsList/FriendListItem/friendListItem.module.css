@@ -1,0 +1,27 @@
+.isOnline {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: green;
+  overflow: hidden;
+  margin-right: 15px;
+}
+.isOffline {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: red;
+  overflow: hidden;
+  margin-right: 15px;
+}
+
+.list{
+width: 150px;
+display: flex;
+
+align-items: center;
+list-style: none;
+margin-top: 5px;
+box-shadow: 2px 5px 15px black;
+}
+
